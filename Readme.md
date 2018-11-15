@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomTreeList.cs](./CS/dxSample/Custom Tree List/CustomTreeList.cs) (VB: [CustomTreeListViewInfo.vb](./VB/dxSample/Custom Tree List/CustomTreeListViewInfo.vb))
+* [CustomTreeListViewInfo.cs](./CS/dxSample/Custom Tree List/CustomTreeListViewInfo.cs) (VB: [CustomTreeListViewInfo.vb](./VB/dxSample/Custom Tree List/CustomTreeListViewInfo.vb))
+* [Form1.cs](./CS/dxSample/Form1.cs) (VB: [Form1.vb](./VB/dxSample/Form1.vb))
+* [Program.cs](./CS/dxSample/Program.cs) (VB: [Program.vb](./VB/dxSample/Program.vb))
+<!-- default file list end -->
 # Row group summary - How to handle row footer visibility
 
 
